@@ -1,0 +1,16 @@
+str name = hashi
+
+print name
+
+int x = 293
+
+int y = 234
+
+divide y x
+
+multiply x y
+
+add x y
+
+subtract x y
+
